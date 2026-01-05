@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+geopandas
+folium
+streamlit-folium
+tensorflow
+joblib
+matplotlib
+altair
+requests
+scikit-learn
